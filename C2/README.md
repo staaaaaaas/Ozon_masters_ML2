@@ -18,3 +18,5 @@ https://www.kaggle.com/competitions/om-2022-ml-2-contest-2/overview
 
 
 **Результат**
+
+9 место из 68 участников на приватной части
